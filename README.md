@@ -1,4 +1,5 @@
 # Informatics-Capstone-Project
+## About 
 This repository is for the University of Washington Informatics Capstone project sponsored by <i>Alliance of People with disAbilities<i/>. 
 
 ## Contact Information
