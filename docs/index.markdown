@@ -14,6 +14,5 @@ content **content** *content*
 
 - list
 - list
-- 1968\ list with number
 1. list
 2. list
