@@ -29,7 +29,7 @@ url: "https://github.com/ghcho-1664377/infoforgood.github.io" # the base hostnam
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
