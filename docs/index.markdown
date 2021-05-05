@@ -5,9 +5,10 @@
 layout: default
 title: Info for Good
 ---
-# Project Poster #
+No one likes filling out intake forms, they are often difficult to understand and fatiguing to complete.  These negative effects are increased when the users completing the form are living with disabilities.  This project aims to understand and address the major pain points disabled individuals face when completing online forms.  
+<br>
 
-No one likes filling out intake forms, they are often difficult to understand and fatiguing to complete.  These negative effects are increased when the users completing the form are living with disabilities.  This project aims to understand and address the major pain points disabled individuals face when completing online forms.
+![Project Poster](/img/poster.png)  
 
 # Project Information #
 
@@ -32,6 +33,15 @@ After creating our first attempt at an accessible online intake form we did a lo
 Established in 1977, Alliance of People with disAbilities is located in King County, Washington.  The Alliance works hard to make our community more accessible, inclusive, and usable for everyone. Their programs are open to people with all types of disAbilities.
 
 # Key Features #
+
+## Screenreader friendly ##
+
+## Conversational language ##
+
+## Database Integration ##
+
+## Content cluster ##
+
 # Presentation Video #
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tx8gxqCqf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,7 +58,8 @@ Established in 1977, Alliance of People with disAbilities is located in King Cou
 <ghc10310@gmail.com>  
 
 **Wanyu Guan**  
-<wanyu20@uw.edu>
+<wanyuguan20@gmail.com>
 
 # Project Status #
 
+The project is ready to be handed to our sponsor, the Allaince. As we also discovered that our sponsor's third party database, [CIL Suite](https://www.cilsuite.com/), is working on similar project, we will provide them with our research findings for additional resources.
