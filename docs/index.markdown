@@ -9,6 +9,8 @@ title: Info for Good
 
 No one likes filling out intake forms, they are often difficult to understand and fatiguing to complete.  These negative effects are increased when the users completing the form are living with disabilities.  This project aims to understand and address the major pain points disabled individuals face when completing online forms.
 
+# Project Information #
+
 ## How we chose our platform ##
 
 When designing this solution for the alliance of people with disAbilities it was crucial to us that the Alliance would be able to maintain and edit their new online intake form, this forced us to create our intake form using a 3rd party form creator. The alliance also had budget constraints and as a result were where unable to use paid form creators.  With these two requirements, there were two solutions available to us Google forms and Microsoft forms, we decided to build our accessible form in Microsoft forms because Microsoft forms are HIPPA compliant and the Alliance already had an office 365 account.
@@ -24,10 +26,25 @@ After creating our first attempt at an accessible online intake form we did a lo
 
 # About Alliance of People with disAbilities #
 
+[![Alliance of People with disAbilities](/img/logo.png)](http://disabilitypride.org/wordpress/)
+
+
 Established in 1977, Alliance of People with disAbilities is located in King County, Washington.  The Alliance works hard to make our community more accessible, inclusive, and usable for everyone. Their programs are open to people with all types of disAbilities.
 
 # Key Features #
 # Presentation Video #
 # Team Info for Good #
+
+**Ahn Nguyen**  
+<>  
+  
+**Garrett Olerud**  
+<golerud701@gmail.com>  
+
+**Gunhyung Cho**  
+<ghc10310@gmail.com>  
+
+**Wanyu Guan**  
+<wanyu20@uw.edu>
 
 # Project Status #
