@@ -34,7 +34,7 @@ Established in 1977, Alliance of People with disAbilities is located in King Cou
 # Key Features #
 # Presentation Video #
 
-<iframe width="480" height="270" src="https://youtu.be/6tx8gxqCqf0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6tx8gxqCqf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Team Info for Good #
 
