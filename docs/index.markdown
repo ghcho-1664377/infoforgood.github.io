@@ -48,8 +48,8 @@ Established in 1977, Alliance of People with disAbilities is located in King Cou
 
 # Team Info for Good #
 
-**Ahn Nguyen**  
-<>  
+**Anh Nguyen**  
+<atnd@uw.edu>  
   
 **Garrett Olerud**  
 <golerud701@gmail.com>  
