@@ -62,8 +62,6 @@ Birds of a feather flock together, so do the questions on our form, we took the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xfSFHymz5UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-<br>
-
 ![Project Poster](/img/poster.png)  
 
 # Team Info for Good #
