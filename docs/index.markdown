@@ -30,7 +30,7 @@ After creating our first attempt at an accessible online intake form we did a lo
 [![Alliance of People with disAbilities](/img/logo.png)](http://disabilitypride.org/wordpress/)
 
 
-Established in 1977, Alliance of People with disAbilities is located in King County, Washington.  The Alliance works hard to make our community more accessible, inclusive, and usable for everyone. Their programs are open to people with all types of disAbilities.
+Established in 1977, [Alliance of People with disAbilities](http://disabilitypride.org/wordpress/) is located in King County, Washington.  The Alliance works hard to make our community more accessible, inclusive, and usable for everyone. Their programs are open to people with all types of disAbilities.
 
 # Key Features #
 
@@ -56,7 +56,7 @@ Birds of a feather flock together, so do the questions on our form, we took the 
 
 # Presentation Video #
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6tx8gxqCqf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xfSFHymz5UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Team Info for Good #
 
