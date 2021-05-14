@@ -8,9 +8,11 @@ title: Info for Good
 No one likes filling out intake forms, they are often difficult to understand and fatiguing to complete.  These challenges are compounded when the users trying to complete the form are living with disabilities.  This project aims to understand and address the major pain points disabled individuals face when completing forms.  
 <br>
 
-![Project Poster](/img/desktop.png)  
+![Desktop version of the form](/img/desktop.png)  
 
-![Project Poster](/img/mobile.png)  
+<br>
+
+![Mobile version of the form](/img/mobile.png)  
 
 # Project Information #
 
@@ -60,6 +62,7 @@ Birds of a feather flock together, so do the questions on our form, we took the 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xfSFHymz5UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+<br>
 
 ![Project Poster](/img/poster.png)  
 
