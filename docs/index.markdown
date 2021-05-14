@@ -44,15 +44,15 @@ No computer? No problem this form was designed from the very beginning to be awe
 
 ## Conversational language ##
 
-We kept our questions friendly and sincere so that you feel the love from the Alliance even before you meet one of their amazing workers
+We kept our questions friendly and sincere so that you feel the love from the Alliance even before you meet one of their amazing workers.
 
 ## Database Integration ##
 
-Freeing up time extra time for the Alliance workers so that they can spend more time doing what they love, helping people, was one of the main goals of this project, a power automate flow keeps things running smoothly behind the scenes taking responses and saving them to an easy to upload format as soon as forms are submitted
+Freeing up time extra time for the Alliance workers so that they can spend more time doing what they love, helping people, was one of the main goals of this project, a power automate flow keeps things running smoothly behind the scenes taking responses and saving them to an easy to upload format as soon as forms are submitted.
 
 ## Content clustering ##
 
-Birds of a feather flock together, so do the questions on our form, we took the time to group all of our similar questions together .
+Birds of a feather flock together, so do the questions on our form, we took the time to group all of our similar questions together.
 
 # Presentation Video #
 
