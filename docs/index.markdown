@@ -8,6 +8,10 @@ title: Info for Good
 No one likes filling out intake forms, they are often difficult to understand and fatiguing to complete.  These challenges are compounded when the users trying to complete the form are living with disabilities.  This project aims to understand and address the major pain points disabled individuals face when completing forms.  
 <br>
 
+![Project Poster](/img/desktop.png)  
+
+![Project Poster](/img/mobile.png)  
+
 # Project Information #
 
 ## How we chose our platform ##
